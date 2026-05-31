@@ -1,0 +1,19 @@
+# CircuitPython credentials — never commit these
+CIRCUITPY/settings.toml
+
+# macOS
+.DS_Store
+**/.DS_Store
+__MACOSX/
+
+# CircuitPython runtime artifacts
+*.pyc
+__pycache__/
+.Trashes
+.fseventsd
+.Spotlight-V100
+
+# Editor temp files
+*.swp
+*.swo
+*~
