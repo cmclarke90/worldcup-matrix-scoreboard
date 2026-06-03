@@ -4,6 +4,14 @@ A real-time 2026 FIFA World Cup scoreboard running on an **Adafruit Matrix Porta
 
 ---
 
+## Photos
+
+| Trophy Splash Screen | Game Card Display |
+|---|---|
+| ![World Cup trophy logo on LED matrix](IMG_3699.jpeg) | ![MEX vs RSA scoreboard on LED matrix](IMG_3700.jpeg) |
+
+---
+
 ## Hardware
 
 | Component | Part |
